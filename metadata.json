@@ -1,0 +1,7 @@
+{
+  "name": "Shadow Gym",
+  "description": "Solo Leveling inspired home gym workout system with daily hunter quests, stat upgrades, rank progression, and an interactive sentient System AI administrator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
